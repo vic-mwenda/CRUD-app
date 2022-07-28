@@ -1,4 +1,2 @@
 <?php
- require_once "add-user.php";
-
-
+require_once "add-user.php";

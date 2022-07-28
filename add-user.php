@@ -43,6 +43,17 @@ if(isset($_REQUEST['submit']) and $_REQUEST['submit']!=""){
 		}
 	}
 }
+if(isset($_REQUEST['msg']) and $_REQUEST['msg']=="un"){
+	echo    '<div class="alert alert-danger"><i class="fa fa-exclamation-triangle"></i> User name is mandatory field!</div>';
+}elseif(isset($_REQUEST['msg']) and $_REQUEST['msg']=="ue"){
+	echo    '<div class="alert alert-danger"><i class="fa fa-exclamation-triangle"></i> User email is mandatory field!</div>';
+}elseif(isset($_REQUEST['msg']) and $_REQUEST['msg']=="up"){
+	echo    '<div class="alert alert-danger"><i class="fa fa-exclamation-triangle"></i> User phone is mandatory field!</div>';
+}elseif(isset($_REQUEST['msg']) and $_REQUEST['msg']=="ras"){
+	echo    '<div class="alert alert-success"><i class="fa fa-thumbs-up"></i> Record added successfully!</div>';
+}elseif(isset($_REQUEST['msg']) and $_REQUEST['msg']=="rna"){
+	echo    '<div class="alert alert-danger"><i class="fa fa-exclamation-triangle"></i> Record not added <strong>Please try again!</strong></div>';
+}
 ?>
 
 <div class="container">
