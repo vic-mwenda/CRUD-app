@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="874d3565-47ed-4ef3-8986-46786c5cd5f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="2CZ8wymzI2N4UKrpQ4mQXV8ix1w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/opt/lampp/htdocs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="/opt/lampp/htdocs" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874d3565-47ed-4ef3-8986-46786c5cd5f4" name="Default Changelist" comment="" />
+      <created>1658998989104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658998989104</updated>
+      <workItem from="1658998993563" duration="204000" />
+      <workItem from="1658999272425" duration="513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1658999330333">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999330333" />
+    <state x="578" y="191" width="424" height="506" key="FileChooserDialogImpl" timestamp="1658999484064">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="578" y="191" width="424" height="506" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1658999484064" />
+    <state x="618" y="375" width="354" height="142" key="NewPhpFileDialog" timestamp="1658999633934">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="618" y="375" width="354" height="142" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999633934" />
+    <state x="483" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1658999272538">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="483" y="276" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999272538" />
+    <state x="464" y="203" key="run.anything.popup" timestamp="1658999774700">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="464" y="203" key="run.anything.popup/0.0.1600.900@0.0.1600.900" timestamp="1658999774700" />
+  </component>
+</project>
