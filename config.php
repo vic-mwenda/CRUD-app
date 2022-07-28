@@ -1,6 +1,6 @@
 <?php
 include_once('include/Database.php');
-define('SS_DB_NAME', 'zoza');
+define('SS_DB_NAME', 'crudapp');
 define('SS_DB_USER', 'root');
 define('SS_DB_PASSWORD', '');
 define('SS_DB_HOST', 'localhost');

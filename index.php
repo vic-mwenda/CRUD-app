@@ -1,3 +1,4 @@
 <?php
- echo "hello world";
- ?>
+ require_once "add-user.php";
+
+
