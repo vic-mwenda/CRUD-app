@@ -1,5 +1,6 @@
 <?php
 require_once "config.php";
+require_once "assets/header.php";
 if (isset($_REQUEST['editId']) and $_REQUEST['editId'] != "") {
 	$row = $db->getAllRecords('users', '*', ' AND id="' . $_REQUEST['editId'] . '"');
 }
@@ -31,15 +32,6 @@ if (isset($_REQUEST['submit']) and $_REQUEST['submit'] != "") {
 	}
 }
 ?>
-<head>
-	<meta charset="UTF-8">
-	<title>Dashboard</title>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</head>
 
 <div class="col-sm-6">
     <h5 class="card-title">Fields with <span class="text-danger">*</span> are mandatory!</h5>
