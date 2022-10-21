@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="874d3565-47ed-4ef3-8986-46786c5cd5f4" name="Default Changelist" comment="" />
+    <list default="true" id="874d3565-47ed-4ef3-8986-46786c5cd5f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
-      <executable />
+      <executable path="composer" />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2CZ8wymzI2N4UKrpQ4mQXV8ix1w" />
   <component name="ProjectViewState">
@@ -20,13 +29,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="/opt/lampp/htdocs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="/opt/lampp/htdocs" />
+      <recent name="$PROJECT_DIR$/.." />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -53,6 +63,8 @@
       <updated>1658998989104</updated>
       <workItem from="1658998993563" duration="204000" />
       <workItem from="1658999272425" duration="1743000" />
+      <workItem from="1666370231279" duration="886000" />
+      <workItem from="1666371213948" duration="887000" />
     </task>
     <servers />
   </component>
@@ -60,10 +72,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1658999330333">
+    <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1666370275047">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999330333" />
+    <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1600.900@0.0.1600.900" timestamp="1666370275047" />
+    <state x="631" y="365" width="327" height="163" key="ComposerInitDialogKey" timestamp="1666370622791">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="631" y="365" width="327" height="163" key="ComposerInitDialogKey/0.0.1600.900@0.0.1600.900" timestamp="1666370622791" />
     <state x="578" y="191" width="424" height="506" key="FileChooserDialogImpl" timestamp="1658999484064">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -72,10 +88,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="618" y="375" width="354" height="142" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999633934" />
-    <state x="483" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1658999272538">
+    <state x="483" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1666371410977">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="483" y="276" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999272538" />
+    <state x="483" y="276" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1666371410977" />
     <state x="464" y="203" key="run.anything.popup" timestamp="1658999774700">
       <screen x="0" y="0" width="1600" height="900" />
     </state>

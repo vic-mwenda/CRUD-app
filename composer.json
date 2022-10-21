@@ -1,0 +1,17 @@
+{
+    "name": "victor/crud-app",
+    "description": "a lightweight php application that performs CRUD operations and has a search functionality",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "devic developer",
+			"homepage": "devic.info"
+        }
+    ],
+	"autoload": {
+		"files": ["index.php"]
+	},
+	"minimum-stability": "stable",
+    "require": {}
+}
