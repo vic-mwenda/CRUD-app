@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="874d3565-47ed-4ef3-8986-46786c5cd5f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable path="composer" />
@@ -65,11 +63,25 @@
       <workItem from="1658999272425" duration="1743000" />
       <workItem from="1666370231279" duration="886000" />
       <workItem from="1666371213948" duration="887000" />
+      <workItem from="1666424861119" duration="499000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="141" width="554" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1666370275047">
@@ -88,6 +100,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="618" y="375" width="354" height="142" key="NewPhpFileDialog/0.0.1600.900@0.0.1600.900" timestamp="1658999633934" />
+    <state x="395" y="185" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1666372686154">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="395" y="185" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1666372686154" />
     <state x="483" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1666371410977">
       <screen x="0" y="0" width="1600" height="900" />
     </state>

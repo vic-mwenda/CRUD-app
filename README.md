@@ -1,4 +1,4 @@
-# JavaScript-Media Player
+# CRUD app
 This is a lightweight php application that performs CRUD operations and has a search functionality. The front-end features a beautiful bootstrap made user interface. It is fully functional although there are some bugs in its functionality.
 
 ## Installation
@@ -26,3 +26,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
